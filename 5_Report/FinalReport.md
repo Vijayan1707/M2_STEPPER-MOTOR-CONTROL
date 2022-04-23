@@ -10,7 +10,7 @@
 ### COMPONENTS
  
  * ATMEGA328
- * ULN2803
+ * ULN2803 DRIVER
  * STEPPER MOTOR
  * SIMULIDE
  * CODEBLOCKS
@@ -33,8 +33,8 @@
  * Preferable Coding Software for Avr Coding is Microchip studio.
  * You have to use C compiler with MINGGW(latest or the previous versions).
  * Set path for MINGGW in Environment variables.
- * To go with best compiler use VISUAL STUDIO CODE.
- * In Visual Studio code you can also RUN the program in both LINUX and WINDOWS.
+ * To go with best compiler use CODE BLOCKS.
+ * In CODE BLOCKS you can also RUN the program in both LINUX and WINDOWS.
 
 ### CONCLUSION
 
