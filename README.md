@@ -33,7 +33,7 @@
 
 ## LINKS
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Vijayan1707/M1_MOVIE-TICKET-BOOKING.git)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL.git)
 
 ## SUPPORT
 
