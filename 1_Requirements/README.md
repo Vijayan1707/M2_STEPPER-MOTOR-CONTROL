@@ -41,3 +41,15 @@
 ## WEAKNESS:
  
  * Controlling using WEB.
+
+## HIGH LEVEL REQUIREMENTS:
+
+ |  ID   | Description | Status (Implemented/In Future) |
+| ----- | ----------- | ------------------------------ |
+| HLR 1 |   ULN2803 driver   |  Implemented  |
+
+## Low Level Requirements:
+
+|  ID   | Description | Status (Implemented/ In Future) |
+| ----- | ----------- | ------------------------------- |
+| LLR 1 |    Stepper Motor | Implemented |
