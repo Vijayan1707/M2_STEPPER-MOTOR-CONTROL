@@ -33,6 +33,8 @@
 
 ## LINKS
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Vijayan1707/M1_MOVIE-TICKET-BOOKING.git)
+
 ## SUPPORT
 
  * For support, email vijayananbu17@gmail.com / Raise an issue through GITHUB.
