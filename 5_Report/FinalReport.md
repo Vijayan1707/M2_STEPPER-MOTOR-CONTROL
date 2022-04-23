@@ -15,6 +15,11 @@
  * SIMULIDE
  * CODEBLOCKS
 
+### FLOWCHART
+
+![STEPPER](https://user-images.githubusercontent.com/101561263/164891986-51567b14-6ee0-473b-afa3-3b0b34ded97f.jpeg)
+
+
 ### PROCEDURE
 
  * Here we are going to interface 6 wires Unipolar Stepper Motor with ATmega32 controller.
