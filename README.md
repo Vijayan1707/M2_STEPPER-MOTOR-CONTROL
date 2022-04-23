@@ -33,6 +33,8 @@
  * Codiga-Code Quality Score ![Quality](https://api.codiga.io/project/33109/score/svg)
  * Codiga-Code Grade ![Quality](https://api.codiga.io/project/33109/status/svg)
  * cpp check [![main_check](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/c-cpp.yml)
+ * valgrind [![Valgrind](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/Make.yml/badge.svg)](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/Make.yml)
+ * windows check [![C windows BUILD](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/windows.yml/badge.svg)](https://github.com/Vijayan1707/M2_STEPPER-MOTOR-CONTROL/actions/workflows/windows.yml) 
 
 ## LINKS
 
