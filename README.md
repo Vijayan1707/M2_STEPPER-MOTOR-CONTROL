@@ -30,6 +30,8 @@
 
 ## BADGES
 
+ * Codiga-Code Quality Score ![Quality](https://api.codiga.io/project/33109/score/svg)
+ * Codiga-Code Grade ![Quality](https://api.codiga.io/project/33109/status/svg)
 
 ## LINKS
 
