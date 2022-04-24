@@ -1,4 +1,4 @@
-PROJ_NAME = Activities
+PROJ_NAME = STEPPER-MOTOR-CONTROL
 
 BUILD_DIR = Build
 
